@@ -20,8 +20,8 @@
 `PS> python -m pip install apache-beam`
 
 ## Copy these files into your local
-[wordcount.py](https://github.com/TejaswiNallavolu/python-word-count-beam/blob/main/wordcount.py)
-[sample.txt](https://github.com/TejaswiNallavolu/python-word-count-beam/blob/main/sample.txt)
+- [wordcount.py](https://github.com/TejaswiNallavolu/python-word-count-beam/blob/main/wordcount.py)
+- [sample.txt](https://github.com/TejaswiNallavolu/python-word-count-beam/blob/main/sample.txt)
 
 ## Executing the pipeline
 `python -m apache_beam.examples.wordcount --input /path/to/inputfile --output /path/to/write/counts`
